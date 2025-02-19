@@ -50,6 +50,8 @@ exports[`snapshot test 1`] = `
       title="arrow down icon"
     />
     <GrGrommet />
+    <LiaNode />
+    <TbPentagonNumber0 />
   </p>
 </div>
 `;
